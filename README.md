@@ -1,4 +1,4 @@
-# Fit the columns and rows size based on custom control size
+# Fit the Columns and Rows Size Based on Custom Control Size
 
 This example demonstrates how to adjust the column and row height based on custom control size
 
